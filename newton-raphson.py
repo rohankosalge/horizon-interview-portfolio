@@ -1,5 +1,5 @@
 # Programmer: Rohan Kosalge
-# Date: October 29th, 2018
+# Date: October 29th, 2018 
 # Purpose: Find all roots of any polynomial
 
 from rutils import *
